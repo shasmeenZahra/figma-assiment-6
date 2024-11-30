@@ -1,13 +1,13 @@
 import React from 'react';
-import Headerone from './components/headerone';
-import Header  from './components/header';
-import Footer from './components/footer';
-import Hero from './components/hero';
+import Headerone from './components/Header-one';
+import  Header  from './components/header';
+import Footer from './components/Hero-two';
+import Hero from './components/hero'
 import Course from './components/Course-categous';
 import AchievementSection from './components/Achievement';
 import Courses from './components/CoursesCard';
 import Teams from './components/Teams';
-import Customer from './components/customer';
+import Customer from './components/Customer-testimonials';
 import FooterTwo from './components/footertwo';
 
 

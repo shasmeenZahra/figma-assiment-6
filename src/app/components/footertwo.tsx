@@ -5,14 +5,14 @@ import { FaInstagram, FaTwitter, FaLinkedin } from "react-icons/fa";
 
 const FooterTwo = () => {
   return (
-    <div className="w-full bg-[#FFFFFF] px-4 py-8 flex justify-center items-center">
+    <div className=" w-full mt-20 mb-20 bg-[#FFFFFF] px-4 py-8 flex justify-center items-center">
       <div className="max-w-[1120px] w-full">
         {/* Top Section */}
         <div className="flex flex-col md:flex-row justify-between items-center text-center md:text-left space-y-6 md:space-y-0">
           <div>
             <h3 className="text-lg font-bold">Subscribe to our newsletter</h3>
             <p className="text-sm">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Lorem ipsum dolor sit amet &#44; consectetur adipiscing elit.
             </p>
           </div>
           <div className="w-full md:w-[400px]">
@@ -39,9 +39,14 @@ const FooterTwo = () => {
         </div>
 
         {/* Bottom Section */}
-        <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 gap-6 mt-11 text-center md:text-left">
+
+
+        <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-4 gap-6 mt-11 text-center md:text-left ">
           <div className="flex justify-center md:justify-start items-start">
-            <Image src="/image/logo.jpg" alt="logo" width={130} height={40} />
+            <Image src="/image/logo.jpg" 
+            alt="logo"
+             width={130}
+              height={40} />
           </div>
 
           <div>
@@ -78,12 +83,12 @@ const FooterTwo = () => {
           </div>
         </div>
 
-        {/* Divider */}
+        
         <div className="border-t border-black w-full mt-11"></div>
 
-        {/* Footer Bottom Section */}
+      
         <div className="mt-4 flex flex-col md:flex-row justify-between items-center text-sm space-y-4 md:space-y-0">
-          {/* Left Section */}
+    
           <div className="flex flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-4 text-center md:text-left">
             <p>2023 Ddsgnr. All rights reserved.</p>
             <p className="underline cursor-pointer">Privacy Policy</p>

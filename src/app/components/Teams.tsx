@@ -11,7 +11,7 @@ const Teams = () => {
         {/* Heading and Description */}
         <h1 className="text-4xl font-bold">Our Team</h1>
         <p className="text-gray-700 mt-2">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+          Lorem ipsum dolor sit amet &#44; consectetur adipiscing elit.
         </p>
 
         {/* Team Members */}

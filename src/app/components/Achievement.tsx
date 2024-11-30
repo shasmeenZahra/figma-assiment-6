@@ -7,8 +7,8 @@ const Achievement = () => {
         {/* Section Heading */}
         <h2 className="text-2xl md:text-4xl font-bold mb-6">Our Achievements</h2>
         <p className="text-gray-600 text-sm md:text-base max-w-2xl mx-auto mb-10">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.
-          Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat.
+          Lorem ipsum dolor sit amet &#44; consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.
+          Duis cursus &#44; mi quis viverra ornare &#44; eros dolor interdum nulla &#44; ut commodo diam libero vitae erat.
         </p>
 
         {/* Stats Section */}

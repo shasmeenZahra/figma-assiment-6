@@ -45,7 +45,7 @@ const Courses = () => {
             </div>
             <h3 className="text-lg font-bold mt-2">UX/UI Design 201</h3>
             <p className="text-sm text-gray-500 mt-1">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Lorem ipsum dolor sit amet &#44; consectetur adipiscing elit.
             </p>
             <div className="flex justify-between items-center mt-4">
               <button className=" hover:bg-blue-100 text-black px-4 py-2 border border-black rounded-md">
@@ -80,7 +80,7 @@ const Courses = () => {
             </div>
             <h3 className="text-lg font-bold mt-2">Introduction to Python</h3>
             <p className="text-sm text-gray-500 mt-1">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Lorem ipsum dolor sit amet &#44; consectetur adipiscing elit.
             </p>
             <div className="flex justify-between items-center mt-4">
               <button className="hover:bg-blue-100 text-black px-4 py-2 border border-black rounded-md">
@@ -113,7 +113,7 @@ const Courses = () => {
             </div>
             <h3 className="text-lg font-bold mt-2">Data Analysis for Beginners</h3>
             <p className="text-sm text-gray-500 mt-1">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Lorem ipsum dolor sit amet &#44; consectetur adipiscing elit.
             </p>
             <div className="flex justify-between items-center mt-4">
               <button className=" hover:bg-blue-100 text-black px-4 py-2 border border-black rounded-md ">
@@ -146,7 +146,7 @@ const Courses = () => {
             </div>
             <h3 className="text-lg font-bold mt-2">Art Specialization</h3>
             <p className="text-sm text-gray-500 mt-1">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Lorem ipsum dolor sit amet &#44; consectetur adipiscing elit.
             </p>
             <div className="flex justify-between items-center mt-4">
               <button className="hover:bg-blue-100 text-black px-4 py-2 border border-black rounded-md">
@@ -179,7 +179,7 @@ const Courses = () => {
             </div>
             <h3 className="text-lg font-bold mt-2">Rule of Law</h3>
             <p className="text-sm text-gray-500 mt-1">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Lorem ipsum dolor sit amet &#44; consectetur adipiscing elit.
             </p>
             <div className="flex justify-between items-center mt-4">
               <button className="  hover:bg-blue-100 text-black px-4 py-2 border border-black rounded-md ">
@@ -212,7 +212,7 @@ const Courses = () => {
             </div>
             <h3 className="text-lg font-bold mt-2">Introduction to webflow</h3>
             <p className="text-sm text-gray-500 mt-1">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Lorem ipsum dolor sit amet &#44; consectetur adipiscing elit.
             </p>
             <div className="flex justify-between items-center mt-4">
               <button className=" hover:bg-blue-100 text-black px-4 py-2 border border-black rounded-md ">

@@ -1,6 +1,8 @@
 import React from "react";
 
-export default function HeroSection() {
+
+const hero = () => {
+ 
   return (
     <section className="flex flex-col md:flex-row items-center py-16 px-6 md:px-16 bg-white">
       {/* Left Content */}
@@ -11,7 +13,7 @@ export default function HeroSection() {
         </h1>
         <p className="text-gray-600 mb-8 text-sm md:text-lg">
           Discover a wide range of courses covering a variety of <br className="hidden md:block" />
-          subjects, taught by expert instructors.
+          subjects &#44; taught by expert instructors.
         </p>
         <div className="flex justify-center md:justify-start gap-4">
           <button className="bg-black text-white px-6 py-3 rounded-md text-sm md:text-base">
@@ -34,3 +36,6 @@ export default function HeroSection() {
     </section>
   );
 }
+export default hero
+
+

@@ -8,10 +8,11 @@ import { FaLinkedin } from "react-icons/fa";
 const headerone = () => {
   return (
 
-    <div className="w-[1280px] h-[54px] bg-[#F7F7F7] flex flex-row mb-4 border-b border-black">
+    <div className="w-[1280px] h-[54px] bg-[#F7F7F7] flex flex-row mb-4 border-b border-black ">
       <div className="w-[1120px] h-[24px] flex flex-row justify-between items-center mt-4 ml-20">
     <div className="flex text-sm space-x-2 ml-2 font-thin w-[386px] h-[30px] ">
       <p className="">Phone Number: 956 742 455 678</p>
+      <span className="hidden sm:inline-block">|</span>
       <p>Email:info@ddsgnr.com</p>
     </div>
 
