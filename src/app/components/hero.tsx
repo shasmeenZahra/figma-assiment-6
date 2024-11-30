@@ -1,5 +1,5 @@
 import React from "react";
-
+import Image from "next/image";
 
 const hero = () => {
  
@@ -27,7 +27,7 @@ const hero = () => {
 
       {/* Right Image */}
       <div className="flex-1">
-        <img
+        <Image
           src="/image/image.png"
           alt="Learning Illustration"
           className="w-full max-w-[500px] mx-auto md:mx-0"
