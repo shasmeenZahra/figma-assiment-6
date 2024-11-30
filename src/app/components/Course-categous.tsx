@@ -60,7 +60,7 @@ const course = () => {
         
           <div className="bg-[#F7F7F7] shadow rounded p-6 flex items-center space-x-4 h-[132px] w-[410.67px] ">
             <div className="h-100 w-100 flex items-center justify-center bg-gray-200 rounded-md">
-              <img src="/image/Frame5.png" alt="Design" className="h-[100px] w-[1p0px]" />
+              <Image src="/image/Frame5.png" alt="Design" className="h-[100px] w-[1p0px]" />
             </div>
             <div>
               <h3 className="font-bold">Digital Marketing</h3>
