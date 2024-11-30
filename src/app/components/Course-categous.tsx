@@ -14,9 +14,6 @@ const course = () => {
 
           <div className="bg-[#F7F7F7] shadow rounded p-6 flex items-center space-x-4 h-[132px] w-[410.67px]">
             <div className=" flex items-center justify-center w-[100] h-[100] bg-gray-200 rounded-md">
-              
-
-
                     <Image src="/image/Frame1.png" alt="  Web developement" width={100} height={100} />
 
             </div>
@@ -40,7 +37,7 @@ const course = () => {
           
           <div className="bg-[#F7F7F7] shadow rounded p-6 flex items-center space-x-4  h-[132px] w-[410.67px]">
             <div className="h-100 w-100 flex items-center justify-center bg-gray-200 rounded-md">
-              <img src="/image/Frame3.png" alt="Data Science" className="h-[100px] w-[100px]" />
+              <Image src="/image/Frame3.png" alt="Data Science" className="h-[100px] w-[100px]" />
             </div>
             <div>
               <h3 className="font-bold">Development</h3>
@@ -74,7 +71,7 @@ const course = () => {
           
           <div className="bg-[#F7F7F7] shadow rounded p-6 flex items-center space-x-4  h-[132px] w-[410.67px]">
             <div className="h-100 w-100 flex items-center justify-center bg-gray-200 rounded-md">
-              <img src="/image/Frame6.png" alt="Data Science" className="h-[100px] w-[100px]" />
+              <Image src="/image/Frame6.png" alt="Data Science" className="h-[100px] w-[100px]" />
             </div>
             <div>
               <h3 className="font-bold">Self Development</h3>
@@ -85,7 +82,7 @@ const course = () => {
          
          <div className="bg-[#F7F7F7] shadow rounded p-6 flex items-center space-x-4  h-[132px] w-[410.67px]">
            <div className="h-100 w-100 flex items-center justify-center bg-gray-200 rounded-md">
-             <img src="/image/Frame7.png" alt="Web Development" className="h-[100px] w-[100px]" />
+             <Image src="/image/Frame7.png" alt="Web Development" className="h-[100px] w-[100px]" />
            </div>
            <div>
              <h3 className="font-bold">Business</h3>
