@@ -34,8 +34,7 @@ const hero = () => {
            height={500}
            objectFit = "cover"
            className=' flex flex-row lg:justify-end lg:ml-36 w-[428px] h-[390px] lg:w-[500px] lg:h-[550px] '/>
-         
-        />
+        
       </div>
     </section>
   );
