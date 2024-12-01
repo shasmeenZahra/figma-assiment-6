@@ -71,12 +71,15 @@ const [isOpen, setIsOpen] = useState(false);
  </div>
 
  </div>
- <div className="flex gap-4 h-[40px] w-[191px]">
+ <div className="flex gap-4 h-[40px] w-[191px] lg:block hidden items justify-end">
  <button className="text-[#000000] border border-black rounded-md px-4 py-2 h-[40px] w-[80px]">Login</button>
  <button className="bg-[#000000] text-[#FFFFFF] border border-white  px-4 py-2 rounded h-[40px] w-[95px]">Sing Up</button>
  </div>
  </div>
- 
+
+
+
+
  </header>
  )
 }
