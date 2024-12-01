@@ -11,7 +11,7 @@ const Navbar = () => {
 
 const [isOpen, setIsOpen] = useState(false);
  return (
- <header className="bg-[hashtag#F7F7F7] shadow w-[1280px] h-[72px] p-4">
+ <header className="flex flex-row lg:w-[1280px] lg:h-[72px] w-[428px] h-[72px] bg-[#F7F7F7] lg:flex lg:items-center justify-between sm:px-7 lg:px-16 relative  ">
  <div className=" flex justify-center w-[1152px] h-[44px]">
  <div className="container mx-auto flex justify-between items-center gap-y-3 ">
  <div className="flex items-center space-x-20 ml-24 bg-[hashtag#F7F7F7] h-[72px] w-[1280px]">
