@@ -12,7 +12,7 @@ const Footer = () => {
       {/* Logos Section */}
       <div className=" flex flex-col lg:flex-row items-center lg:space-x-4 mt-4 lg:mt-0">
         <Image
-          src="/image/logos.png"
+          src="/image/Logos.png"
           alt="Company logos"
           width={1400}
           height={56}
