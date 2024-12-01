@@ -10,13 +10,13 @@ const Footer = () => {
       </div>
 
       {/* Logos Section */}
-      <div className="w-full md:w-auto flex justify-center md:justify-end">
+      <div className=" flex flex-col lg:flex-row items-center lg:space-x-4 mt-4 lg:mt-0">
         <Image
           src="/image/logos.png"
           alt="Company logos"
-          width={700}
+          width={1400}
           height={56}
-          className="w-full max-w-[700px] h-auto"
+           className=" object-cover items-center lg:mb-0 mb-20"
         />
       </div>
     </div>
