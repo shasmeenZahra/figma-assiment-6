@@ -11,7 +11,7 @@ const Achievement = () => {
           Duis cursus &#44; mi quis viverra ornare &#44; eros dolor interdum nulla &#44; ut commodo diam libero vitae erat.
         </p>
 
-        {/* Stats Section */}
+        
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8 md:gap-16 justify-center items-center">
           <div className="flex flex-col items-center">
             <h3 className="text-3xl md:text-4xl font-bold">+200</h3>
