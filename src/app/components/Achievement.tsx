@@ -10,7 +10,6 @@ const Achievement = () => {
           Lorem ipsum dolor sit amet &#44; consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.
           Duis cursus &#44; mi quis viverra ornare &#44; eros dolor interdum nulla &#44; ut commodo diam libero vitae erat.
         </p>
-
         
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8 md:gap-16 justify-center items-center">
           <div className="flex flex-col items-center">
