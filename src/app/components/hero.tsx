@@ -28,7 +28,7 @@ const hero = () => {
       {/* Right Image */}
       <div className="flex-1">
         <Image
-          src="/image/image.png"
+          src="/image/Image.png"
           alt="Learning Illustration"
            width={500}
            height={500}
